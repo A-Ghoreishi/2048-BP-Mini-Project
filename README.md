@@ -10,7 +10,7 @@
 - Tiles combine when they have the same value.
 - Randomly generates new tiles after each move.
 - Displays the current score and game over status.
-- Selecting the color of the environement
+- Selecting the color of the environment
 
 ## Prerequisites
 
@@ -18,14 +18,13 @@
 - CMake (for building the project, optional but recommended)
 
 ## Installation
-
 ### Clone the Repository
-
 First, clone the repository to your local machine:
 
-```bash
+bash
 git clone https://github.com/yourusername/2048-cpp.git
 cd 2048-cpp
+
 
 ## How to play
 Use the keys (W for Up, S for Down,A for Left,D for Right) to move the tiles in the respective direction.
@@ -38,3 +37,4 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 Email: aghoreishi2004@gmail.com
 GitHub: A-Ghoreishi
+
