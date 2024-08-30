@@ -22,7 +22,9 @@
 First, clone the repository to your local machine:
 
 bash
+
 git clone https://github.com/yourusername/2048-cpp.git
+
 cd 2048-cpp
 
 
