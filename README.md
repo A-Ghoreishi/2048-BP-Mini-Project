@@ -8,9 +8,10 @@
 - Playable game with a 4x4 grid.
 - Supports user inputs for moving tiles in four directions (up, down, left, right).
 - Tiles combine when they have the same value.
-- Randomly generates new tiles after each move.
+- ![Randomly generates new tiles after each move.](https://github.com/A-Ghoreishi/2048-BP-Mini-Project/blob/main/2.jpg)
 - Displays the current score and game over status.
-- Selecting the color of the environment
+- ![Selecting the color of the environment](https://github.com/A-Ghoreishi/2048-BP-Mini-Project/blob/main/1.jpg)
+
 
 ## Prerequisites
 
