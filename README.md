@@ -36,5 +36,6 @@ The game ends when no more valid moves are possible or when the 2048 tile is rea
 If you have any questions or need further assistance, feel free to reach out to me:
 
 Email: aghoreishi2004@gmail.com
+
 GitHub: A-Ghoreishi
 
